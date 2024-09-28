@@ -1,5 +1,22 @@
 # React + TypeScript + Vite
 
+Portfolio_02_Tips
+Overview
+This project is a Tip Calculator web application built with React and Vite. It enables users to calculate tips and consumption totals, providing an intuitive and responsive user experience. The project demonstrates core React concepts like state management, form validation, and API handling.
+
+Technologies Used:
+
+React: For building the user interface.
+Vite: For optimized builds and fast development.
+TypeScript: Ensures type safety.
+TailwindCSS: For styling and responsive design.
+How to Run:
+
+Clone the repository.
+Run npm install to install dependencies.
+Run npm run dev to start the development server.
+This is part of a series of projects showcasing my web development skills.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
